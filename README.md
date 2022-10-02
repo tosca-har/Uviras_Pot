@@ -1,2 +1,4 @@
 # Uviras_Pot
  VR assembling of Agarabi jar
+ This code is basically the VR ThreeJs dragging example code from threejs.org with glb models instead of primitive objects.
+ The archaeologist Chris Ballard recorded the creation of the vessel at Anonantu in the Eastern Highlands of PNG, by the Agarabi speaker Uvira in the 1980s. The photos in the site show the vessel creation. The vessel unfortunately broke in transit to Australia. I scanned the pieces using the iPhone Polycam ap. The aim of the site is to show and record how men of the Agarabi community made pottery in the past. For further information please contact Kristine Hardy at the Australian National University. If you do reuse any of the models or photographs, it is essential that you always identify Uvira of Anonantu as the creator of the pot. Please acknowledge Chris Ballard as the photographer. The photographs appear in the ANU Masters thesis of Kristine Hardy 2021.
